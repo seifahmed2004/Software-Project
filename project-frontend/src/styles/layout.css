@@ -1,0 +1,39 @@
+/* Base layout styles */
+.container {
+    min-height: 100vh;
+    background-color: #FFF8EE;
+    padding: 2rem;
+  }
+  
+  .main-content {
+    max-width: 1200px;
+    margin: 0 auto;
+    background-color: white;
+    border-radius: 1.5rem;
+    box-shadow: 0 4px 6px -1px rgb(0 0 0 / 0.1);
+    padding: 2rem;
+  }
+  
+  .content-grid {
+    display: grid;
+    grid-template-columns: 1fr 320px;
+    gap: 2rem;
+    margin-top: 2rem;
+  }
+  
+  .dishes-container {
+    width: 100%;
+  }
+  
+  .dishes-grid {
+    display: grid;
+    grid-template-columns: repeat(auto-fill, minmax(280px, 1fr));
+    gap: 2rem;
+    margin-top: 1.5rem;
+  }
+  
+  @media (max-width: 1024px) {
+    .content-grid {
+      grid-template-columns: 1fr;
+    }
+  }

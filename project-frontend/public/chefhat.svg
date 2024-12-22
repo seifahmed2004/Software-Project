@@ -1,0 +1,6 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" fill="none" stroke="red" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="lucide lucide-chef-hat">
+  <path d="M12 3c-2.21 0-4 1.79-4 4 0 .34.04.67.1 1H6c-1.1 0-2 .9-2 2v1c0 .55.45 1 1 1h14c.55 0 1-.45 1-1v-1c0-1.1-.9-2-2-2h-2.1c.06-.33.1-.66.1-1 0-2.21-1.79-4-4-4z"></path>
+  <path d="M6 14v7"></path>
+  <path d="M18 14v7"></path>
+  <path d="M9 18h6"></path>
+</svg>
