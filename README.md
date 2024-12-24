@@ -66,15 +66,47 @@ http://127.0.0.1:8000/
 
 🛡️ Sprint Plan
 
-	•	Sprint 1: Basic Functionality
-	•	Recipe CRUD operations
-	•	User authentication system
-	•	Sprint 2: Advanced Features
-	•	Search and filtering options
-	•	Responsive design implementation
-	•	Sprint 3: Community Features
-	•	Recipe sharing functionality
-	•	User profile pages
+Sprint Manage
+Sprint Manage is a project management tool designed to streamline agile workflows. It provides an intuitive interface for managing sprints, tasks, and team performance while ensuring robust backend operations, frontend usability, and cloud deployment capabilities.
+
+Project Overview
+This project aims to create a robust web application that integrates advanced features like:
+
+Sprint Management: Create, monitor, and manage sprints.
+Task Allocation: Assign and track tasks among team members.
+Reporting: Generate insightful reports to analyze sprint performance.
+Cloud Deployment: Utilize Docker and Azure for scalable and efficient deployments.
+Team Roles and Responsibilities
+Backend & Database
+Assigned Members: Men Emad, Amel Emad
+Responsibilities:
+
+Develop and optimize the backend using Django.
+Design and implement the database schema for sprint and task management.
+Integrate APIs to support frontend functionalities.
+Prepare reports and PowerPoint presentations to track backend progress.
+Frontend, Testing & Cloud Deployment
+Assigned Members: Youssef, Abdelrahman
+Responsibilities:
+
+Design and implement the frontend using modern frameworks (e.g., React, Angular, or Vue.js).
+Conduct thorough testing to ensure application quality and reliability.
+Implement Docker for containerization of the application.
+Deploy the project on Azure for scalable and secure hosting.
+Technologies Used
+Backend:
+Django (Python Framework)
+SQLite/PostgreSQL (Database)
+Frontend:
+React.js (or your selected framework/library)
+HTML5/CSS3/JavaScript
+DevOps:
+Docker (Containerization)
+Azure (Cloud Deployment)
+Tools:
+Git & GitHub (Version Control)
+Postman (API Testing)
+Jest/Cypress (Frontend Testing)
 
 📄 API Documentation
 
